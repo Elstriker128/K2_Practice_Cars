@@ -1,0 +1,12 @@
+Peugeot; 308; 1200.99
+Peugeot; 307; 1998.99
+Mazda; A3; 2500.45
+Audi; S3; 2500.45
+BMW; X3; 2300.45
+BMW; X6; 2000.00
+Mini Cooper; Countryman; 1500.56
+Lamborghini; Aventador; 1200.00
+Ford; Focus ST; 2300.99
+Peugeot; 307; 1999.99
+Peugeot; 309; 1999.99
+Ford; Mustang; 2200
