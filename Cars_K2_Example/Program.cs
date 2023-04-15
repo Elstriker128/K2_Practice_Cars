@@ -50,7 +50,7 @@ namespace Cars_K2_Example
             {
                 double maxPrice = Task.MaxPrice(FirstList);
 
-                Console.Write("Input first maker: ");
+                Console.Write("Input first maker: "); 
                 string FirstMaker = Console.ReadLine();
                 Console.Write("Input second maker: ");
                 string SecondMaker = Console.ReadLine();
